@@ -1,5 +1,5 @@
 # Site SUPREMO
-![KEY-BOOM](./arquivos/titulo.png)
+![KEY-BOOM](./arquivos/supremo titulo.png)
 
 Web Site em desenvolvimento.
 
@@ -21,7 +21,7 @@ O projeto é idealizado como um site na web, com conexão com um banco de dados 
 
 ### Login
 
-![Main](./arquivos/tela-login.png)
+![Main](./arquivos/tela-login.png.png)
 
 Para acessar o site, clique nos campos de texto e preencha os dados de login inseridos quando fez o cadastro. Caso seja o primeiro acesso, clicar em "Crie um".
 Ao inserir os dados de login, clique no botão "Entrar". O acesso será liberado caso as credenciais estejam certas. Caso não, a página será recarregada e disponibilizada para que você preencha os campos novamente.
@@ -29,7 +29,7 @@ Ao inserir os dados de login, clique no botão "Entrar". O acesso será liberado
 
 ### Cadastro
 
-![Login](./arquivos/tela-cadastro.png)
+![Login](./arquivos/tela-cadastro.png.png)
 
 O usuário deve inserir nome, email, senha e confirmação de senha nos devidos campos. Caso o e-mail já esteja cadastrado, uma mensagem aparecerá avisando isto. Apenas emails com "@" são aceitos no cadastro.
 
@@ -37,7 +37,7 @@ O usuário deve inserir nome, email, senha e confirmação de senha nos devidos 
 
 ### Página de Perfil
 
-![Perfil](./arquivos/perfil)
+![Perfil](./arquivos/perfil.png)
 
 A página de perfil mostrará os principais dados do cliente até o momento. 
 
