@@ -1,4 +1,4 @@
-# Site SUPREME
+# Site SUPREMO
 ![KEY-BOOM](./arquivos/titulo.png)
 
 Web Site em desenvolvimento.
