@@ -29,7 +29,7 @@ Ao inserir os dados de login, clique no botão "Entrar". O acesso será liberado
 
 ### Cadastro
 
-![Login](./arquivos/tela-adastro.png)
+![Login](./arquivos/tela-cadastro.png)
 
 O usuário deve inserir nome, email, senha e confirmação de senha nos devidos campos. Caso o e-mail já esteja cadastrado, uma mensagem aparecerá avisando isto. Apenas emails com "@" são aceitos no cadastro.
 
@@ -37,7 +37,7 @@ O usuário deve inserir nome, email, senha e confirmação de senha nos devidos 
 
 ### Página de Perfil
 
-![Perfil](./arquivos/perfil.)
+![Perfil](./arquivos/perfil)
 
 A página de perfil mostrará os principais dados do cliente até o momento. 
 
