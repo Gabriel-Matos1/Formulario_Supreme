@@ -1,0 +1,11 @@
+body{
+    margin: 0 0 0 0;
+    padding: 0;    
+}
+nav{
+    background-color: blueviolet;
+    height: 300px;
+}
+.opc{
+    color: brown;
+}

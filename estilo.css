@@ -1,0 +1,138 @@
+
+body{
+    margin: 0 0 0 0;
+    padding: 0;
+    background: url(fundo2.jpg);
+    background-size: 100%, 100%;
+    align-items: center;
+    text-align: center;
+    
+}
+p{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text{
+    transition: width 1s;
+
+}
+.Title{
+    font-size: 60px;
+    color:whitesmoke;
+    font-weight: none;
+}
+.conteiner{
+
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 400px;
+    background-color: whitesmoke;
+    border-radius: 22px;
+    display: flex;
+    justify-content: center;
+}
+.titulo{
+    margin-left:30px;
+    font-size: 30px;
+    font-weight: none;
+    height: 100%;
+
+}
+.titulo2{
+    margin-top: 80%;
+}
+.formulario{
+    width: 300px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+    align-items: center;
+    text-align: center;
+    transition: width 1s;
+    
+}
+
+.campo{
+    border-radius: 22px;
+    width: 250px;
+    transition: width 1s;
+}
+.campo2{
+    border-radius: 22px;
+    width: 250px;
+    transition: width 1s;
+    
+}
+.visualizar{
+    font-size: 12px;
+    margin-left: 0px;
+}
+.btn{
+    background-color: blueviolet;
+    color: whitesmoke;
+    border-radius: 22px;
+    border: 0px;
+    width: 150px;
+    height: 30px;
+}
+.btn:hover{
+    background-color: whitesmoke;
+    color:blueviolet;
+    border: 1px solid blueviolet;
+    
+}
+a{
+    color:black;
+}
+.email{
+    margin-top: 70px;
+ }
+.formulario:hover{
+    width: 100%;
+    border-radius: 22px;
+    background-color: blueviolet;
+    color: whitesmoke;
+ 
+
+    .text{
+        font-size: 20px;
+    }
+    .text2{
+        font-size: 15px;
+    }
+    .btn{
+        background-color: whitesmoke;
+        color:blueviolet;
+        border: 1px solid whitesmoke;
+    }
+    .a{
+
+        color:gold;   
+    }
+    .btn:hover{
+        background-color: blueviolet;
+        color: whitesmoke;       
+    }
+    .campo{
+        border-radius: 22px;
+        width: 350px;
+        height: 40px;
+        font-size: 20px;
+        border: 1px solid whitesmoke;
+    }
+    .campo2{
+        border-radius: 22px;
+        width: 350px;
+        height: 20px;
+        font-size: 15px;
+        border: 1px solid whitesmoke;
+    }
+    .email{
+        margin-top: 50px;
+     }
+    
+}
