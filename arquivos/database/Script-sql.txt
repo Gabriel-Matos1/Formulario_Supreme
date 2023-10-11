@@ -1,0 +1,8 @@
+create database usuarios;
+use usuarios;
+CREATE TABLE usuario (
+    nome VARCHAR(30)  not null,
+    chapa VARCHAR(6) PRIMARY KEY  not null,
+    usuario VARCHAR(15)  not null,
+    senha VARCHAR(10)  not null
+);
